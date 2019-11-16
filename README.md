@@ -8,6 +8,16 @@ This is a practice project and I am following the video above.
 Technologies: Nodejs, Express, Postgres.
 
 
-To Start the app:
+## Installation
 
+use the package manager npm.
+
+```bash
+npm install
+```
+
+## To start the app
+
+```bash
 npm run dev
+```
